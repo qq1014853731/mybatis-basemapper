@@ -6,7 +6,7 @@
     <groupId>top.chukongxiang</groupId>
     <artifactId>mybatis-basemapper</artifactId>
     <name>${project.groupId}:${project.artifactId}</name>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <url>https://github.com/qq1014853731/mybatis-basemapper</url>
     <description>extends mybatis package BaseMapper</description>
     <licenses>
